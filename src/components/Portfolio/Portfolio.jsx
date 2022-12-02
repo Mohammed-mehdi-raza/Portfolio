@@ -5,7 +5,7 @@ import IMG2 from "../../assets/quizmaker.png";
 import IMG3 from "../../assets/login.png";
 import IMG4 from "../../assets/url shortner.png";
 import IMG5 from "../../assets/file metadata.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG6 from "../../assets/photoGallery.png";
 
 const data=[
     {
@@ -48,7 +48,7 @@ const data=[
         image:IMG6,
         title:"Photo Gallery",
         github:"https://github.com/Mohammed-mehdi-raza/photo-gallery",
-        demo:"https://github.com"
+        demo:"https://gregarious-cendol-de4b72.netlify.app/"
     },
 ]
 
